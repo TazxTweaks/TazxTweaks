@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TazxTweaks
 - 👀 I’m interested in in optimizing pcs, latencies, performance and other things.(PC enthusiast)
-- 📫 How to reach me [...](https://linktr.ee/tazxkstweaks)
+- 📫 How to reach me(https://linktr.ee/tazxkstweaks)
 - 😄 Pronouns: Tazx
 <!---
 TazxTweaks/TazxTweaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
