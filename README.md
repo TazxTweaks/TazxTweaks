@@ -1,6 +1,6 @@
 ## Bienvenido a mi perfil **tazxtweaks** 🚀
 
-¡Hola! Soy **tazx**, un entusiasta del mundo de Computadoras, con una pasión por todo lo relacionado con la personalización y optimización de sistemas. Como un ferviente amante del mundo de las PCs, disfruto explorando nuevas maneras de mejorar el rendimiento, la estética y la experiencia de usuario en el entorno digital.
+¡Hola! Soy **tazx**, un entusiasta del mundo de Computadoras, con una pasión por todo lo relacionado con la personalización y optimización de sistemas.
 
 ### Mi Trayectoria
 He tenido el privilegio de asociarme como **Partner de @rhidex**, un reconocido **Programador de Rhideopts ⚙️**. Juntos, trabajamos para ofrecer soluciones innovadoras en el mundo de la programación, creando herramientas útiles y optimizaciones que mejoran la experiencia de los usuarios.
