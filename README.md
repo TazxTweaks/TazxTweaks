@@ -17,8 +17,7 @@ TazxPerformance es un script en .bat diseñado para optimizar el rendimiento de 
 ###  ¿Por qué Tazx se desaparece por días, semanas o meses, etc.?
 
 A veces desaparezco durante días, semanas o incluso meses debido a motivos personales o porque mi agenda se llena con otras responsabilidades, y otras actividades. Actualmente, mi trabajo en proyectos como este es un hobby, lo que significa que no siempre puedo dedicarle el tiempo que quisiera. Sin embargo, siempre trato de regresar cuando tengo la oportunidad, y aprecio el apoyo de quienes siguen mis proyectos.
+![dancing-cristiano](https://github.com/user-attachments/assets/66e67b34-bff6-4726-999d-63852f056cfa)
 
 
-
-  ![download](https://github.com/user-attachments/assets/3e12dac3-2510-4c21-b38e-9a6e5d04c51d)
 
