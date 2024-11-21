@@ -1,6 +1,6 @@
-## Bienvenido a mi perdil **tazxtweaks** 🚀
+## Bienvenido a mi perfil **tazxtweaks** 🚀
 
-¡Hola! Soy **tazx**, un entusiasta de la informática y la tecnología, con una pasión por todo lo relacionado con la personalización y optimización de sistemas. Como un ferviente amante del mundo de las PCs, disfruto explorando nuevas maneras de mejorar el rendimiento, la estética y la experiencia de usuario en el entorno digital.
+¡Hola! Soy **tazx**, un entusiasta del mundo de Computadoras, con una pasión por todo lo relacionado con la personalización y optimización de sistemas. Como un ferviente amante del mundo de las PCs, disfruto explorando nuevas maneras de mejorar el rendimiento, la estética y la experiencia de usuario en el entorno digital.
 
 ### Mi Trayectoria
 He tenido el privilegio de asociarme como **Partner de @rhidex**, un reconocido **Programador de Rhideopts ⚙️**. Juntos, trabajamos para ofrecer soluciones innovadoras en el mundo de la programación, creando herramientas útiles y optimizaciones que mejoran la experiencia de los usuarios.
@@ -8,4 +8,17 @@ He tenido el privilegio de asociarme como **Partner de @rhidex**, un reconocido 
 ### ¿Qué encontrarás en este perfil?
 En este perfil, encontrarás varios *tweaks*, archivos .bat y otras herramientas creadas por mí para ayudarte a mejorar el rendimiento de tu sistema. Todo está pensado para optimizar tu experiencia, haciendo que tu PC funcione de manera más rápida y eficiente. Estas soluciones están diseñadas para ajustar configuraciones y darle un impulso a tu equipo, incluso en aspectos que no siempre son tan obvios. Si buscas mejorar el rendimiento de tu máquina, aquí tienes algunas opciones útiles que puedes probar.
 
-![0ec989dde8b5fc0deef4e5b09292b605](https://github.com/user-attachments/assets/888d8bee-246b-4a33-a3b9-2624726996e2)
+### El proyecto al que le he dedicado más tiempo es:
+
+**TazxPerfomance**
+
+TazxPerformance es un script en .bat diseñado para optimizar el rendimiento de Windows 10. Incluye ajustes en planes de energía, configuraciones de red y recursos del sistema, con el objetivo de mejorar la velocidad y eficiencia del equipo. Aunque la mayoría de las mejoras están orientadas a mejorar el rendimiento general, algunos aspectos son experimentales, por lo que se recomienda tener precaución al usarlos. Es ideal para usuarios que buscan optimizar su sistema de forma sencilla.
+
+###  ¿Por qué Tazx se desaparece por días, semanas o meses, etc.?
+
+A veces desaparezco durante días, semanas o incluso meses debido a motivos personales o porque mi agenda se llena con otras responsabilidades, y otras actividades. Actualmente, mi trabajo en proyectos como este es un hobby, lo que significa que no siempre puedo dedicarle el tiempo que quisiera. Sin embargo, siempre trato de regresar cuando tengo la oportunidad, y aprecio el apoyo de quienes siguen mis proyectos.
+
+
+
+  ![download](https://github.com/user-attachments/assets/3e12dac3-2510-4c21-b38e-9a6e5d04c51d)
+
