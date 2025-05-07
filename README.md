@@ -1,4 +1,4 @@
-## Bienvenido a mi perfil **tazxtweaks** 🚀
+## Bienvenido a mi perfil **TazxTweaks** 🚀
 
 ¡Hola! Soy **tazx**, un entusiasta del mundo de Computadoras, con una pasión por todo lo relacionado con la personalización y optimización de sistemas.
 
